@@ -10,3 +10,5 @@ Agregando otra linea para regresar a la version anterior.
 
 Ernesto agrego una nueva linea
 
+Esta linea se agrego sin ser colaborador, ya que realizamos fork para 
+clonar el proyecto desde GitHub
