@@ -15,3 +15,5 @@ clonar el proyecto desde GitHub
 
 
 Editamos la linea para ver rebase.
+
+haber si ahora si nos deja hacer el rebase, ya solucionamos confiligto de merge"
