@@ -10,4 +10,6 @@ En el curso estamos viendo de todo:
 *El verdadero amor por las buenas practicas
 *Trucos locos
 
+*Esta linea es agregada para ver el comando cherry-pick.
+
 Recordatorio: **Este redme.md es de prueba**. Hecho par aejemplo.
