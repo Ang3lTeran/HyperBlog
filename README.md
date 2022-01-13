@@ -11,5 +11,8 @@ En el curso estamos viendo de todo:
 *Trucos locos
 
 *Esta linea es agregada para ver el comando cherry-pick.
+*Continuamos aun en la clase de cherry-pick. Con la linea anterior
+la creamos en master, agregamos a stash e hicimos stash en una nueva rama.
+*Continuamos en la clase de cherry-pickup siguiendo las indicaciones.
 
 Recordatorio: **Este redme.md es de prueba**. Hecho par aejemplo.
